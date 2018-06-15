@@ -1,5 +1,4 @@
 <template>
-  <span>test {{name}}</span>
 </template>
 
 <script>
@@ -19,3 +18,6 @@ export default {
   }
 }
 </script>
+<style lang="scss" rel="stylesheet/scss" scoped>
+
+</style>
